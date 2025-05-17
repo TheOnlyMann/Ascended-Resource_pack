@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/beenest","layer1": "minecraft:item/popped_chorus_fruit"
+  },
+  "display": {
+  "thirdperson_righthand": {
+  "rotation": [ 0, 90, 0 ],
+  "translation": [ 0.0, 2.0, 2.0 ],
+  "scale": [ 0.55, 0.55, 0.55 ]
+  } 
+}
+}

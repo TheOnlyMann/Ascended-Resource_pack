@@ -1,0 +1,159 @@
+{
+    "audio1": {
+      "sounds": [
+        "custom:dark_forest"]
+      },
+    "audio2": {
+      "sounds": [
+        "custom:wetlands"]
+      },
+      "audio3": {
+        "sounds": [
+          "custom:swamp_surface"]
+      },
+      "audio4": {
+        "sounds": [
+          "custom:below_swamp"]
+      },
+      "audio5": {
+        "sounds": [
+          "custom:rose"]
+      },
+      "audio6": {
+        "sounds": [
+          "custom:outpost"]
+      },
+      "audio7": {
+        "sounds": [
+          "custom:crystalfort"]
+      },
+      "audio8": {
+        "sounds": [
+          "custom:riverpass"]
+      },
+      "audio9": {
+        "sounds": [
+          "custom:mines"]
+      },
+      "audio10": {
+        "sounds": [
+          "custom:winter"]
+      },
+      "audio11": {
+        "sounds": [
+          "custom:river"]
+      },
+       "audio12": {
+        "sounds": [
+          "custom:highlands"]
+      },
+      "audio13": {
+        "sounds": [
+          "custom:boss1"]
+      },
+      "audio14": {
+       "sounds": [
+        "custom:mountainpass"]
+      },
+      "audio15": {
+       "sounds": [
+        "custom:mines"]
+      },
+      "audio16": {
+       "sounds": [
+        "custom:emgard2"]
+      },
+      "audio17": {
+       "sounds": [
+        "custom:oasis"]
+      },
+      "audio18": {
+       "sounds": [
+        "custom:citadel3"]
+      },
+      "audio19": {
+       "sounds": [
+        "custom:monument"]
+      },
+      "audio20": {
+       "sounds": [
+        "custom:intro3"]
+      },
+      "audio21": {
+       "sounds": [
+        "custom:lava"]
+      },
+      "audio22": {
+       "sounds": [
+        "custom:pirate"]
+      },
+      "audio23": {
+       "sounds": [
+        "custom:piratecave"]
+      },
+      "audio24": {
+       "sounds": [
+        "custom:water"]
+      },
+      "audio25": {
+       "sounds": [
+        "custom:island"]
+      },
+      "audio26": {
+       "sounds": [
+        "custom:boss3"]
+      },
+      "audio27": {
+       "sounds": [
+        "custom:attack"]
+      },
+      "audio28": {
+       "sounds": [
+        "custom:capitalroad"]
+      },
+      "audio29": {
+       "sounds": [
+        "custom:capitalplains"]
+      },
+      "audio30": {
+       "sounds": [
+        "custom:lab"]
+      },
+      "audio31": {
+       "sounds": [
+        "custom:capital"]
+      },
+      "audio32": {
+       "sounds": [
+        "custom:boss4"]
+      },
+      "audio33": {
+       "sounds": [
+        "custom:boss2"]
+      },
+      "audio34": {
+       "sounds": [
+        "custom:outro"]
+      },
+      "audio35": {
+       "sounds": [
+        "custom:arena1"]
+      },
+      "audio36": {
+       "sounds": [
+        "custom:arena2"]
+      },
+      "audio37": {
+       "sounds": [
+        "custom:elytra"]
+      },
+      "audio38": {
+       "sounds": [
+        "custom:introspeach"]
+      },
+      "audio39": {
+       "sounds": [
+        "custom:introspeach2"]
+      }
+}
+}

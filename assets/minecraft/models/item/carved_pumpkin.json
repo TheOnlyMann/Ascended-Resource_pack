@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  "textures": {
+   "layer0": "block/carved_pumpkin"
+  },
+  
+  "overrides": [
+   {"predicate": {"custom_model_data":1}, "model": "block/custom/krown"},{"predicate": {"custom_model_data":2}, "model": "block/custom/krown2"},{"predicate": {"custom_model_data":3}, "model": "block/custom/finalface1"},{"predicate": {"custom_model_data":4}, "model": "block/custom/finalarm1"},{"predicate": {"custom_model_data":5}, "model": "block/custom/finalarm2"},{"predicate": {"custom_model_data":6}, "model": "block/custom/map"},{"predicate": {"custom_model_data":7}, "model": "block/custom/pirate"},{"predicate": {"custom_model_data":8}, "model": "block/custom/goldenchest"}
+  ]
+ }

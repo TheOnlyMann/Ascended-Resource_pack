@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword2"
+  },
+  "display": {
+  "thirdperson_righthand": {
+  "rotation": [ 70, 90, 0 ],
+  "translation": [ 0.0, 4.0, 4.0 ],
+  "scale": [ 0.95, 0.95, 0.95 ]
+  },
+  "firstperson_righthand": {
+    "rotation": [ 60, 90, 0 ],
+    "translation": [ 1.0, 0.0, -1.9 ],
+    "scale": [ 0.95, 0.95, 0.95 ]
+  } 
+}
+}
